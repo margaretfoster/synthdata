@@ -9,4 +9,4 @@ I learn new skills best with hands-on practice, so I like to keep a Jupyter Note
 I could double down on searching for their original data, blindly copy down the code, and just accept that my Notebooks won't run... or I could code up some of my own synthetic data!
 
 # Contents
-- [Checkout] (./synth_checkout.ipynb), designed to accompany Data Camp's [A/B Testing in Python course](https://www.datacamp.com/courses/ab-testing-in-python)
+- [Checkout](/synth_checkout.ipynb), designed to accompany Data Camp's [A/B Testing in Python course](https://www.datacamp.com/courses/ab-testing-in-python)
